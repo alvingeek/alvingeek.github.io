@@ -17,7 +17,7 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@mzlogin](https://github.com/alvingeek)
+* GitHub：[@alvingeek](https://github.com/alvingeek)
 * 博客：[{{ site.title }}]({{ site.url }})
 
 ## Skill Keywords
